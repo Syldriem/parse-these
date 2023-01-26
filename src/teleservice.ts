@@ -1,7 +1,7 @@
 import { parse } from "csv-parse";
 import fs from "fs";
 
-function getData(file: string) {
+export function getData(file: string) {
     const orders: string[] = [];
     return new Promise<string[]>((res, rej) => {
         fs.createReadStream(file)
@@ -40,7 +40,7 @@ function parseLine(line: string) {
     return p1
 }
 
-function sort(orders: Map<string, number>) {
+export function sort(orders: Map<string, number>) {
     let unSortedarr = [...orders]
     const sortedArr = unSortedarr.sort(([_, v1], [__, v2]) => {
         if (v1 > v2) {
@@ -54,7 +54,7 @@ function sort(orders: Map<string, number>) {
     return sortedArr;
 }
 
-async function run() {
+export async function run() {
     const awaitedData = await getData("src/car_orders.csv").then((res) => res)
     return awaitedData;
 }
