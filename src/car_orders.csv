@@ -1,0 +1,1001 @@
+company_id;region;car;order_date
+21;Västra Götalands län;Seat;29/04/2018
+71;Jönköpings län;Daihatsu;21/07/2016
+31;Gävleborgs län;RAM Trucks;21/11/2010
+66;Jönköpings län;Chrysler;06/10/2016
+18;Västra Götalands län;Mahindra and Mahindra;31/10/2010
+73;Dalarnas län;Skoda;12/06/2012
+39;Stockholms län;Ferrari;28/10/2015
+12;Västra Götalands län;General Motors;21/05/2017
+20;Västra Götalands län;Vauxhall;01/08/2016
+32;Dalarnas län;Honda;10/12/2017
+45;Stockholms län;GMC;16/06/2013
+34;Jönköpings län;Chrysler;04/08/2012
+10;Stockholms län;GMC;27/08/2012
+86;Stockholms län;BMW;02/08/2011
+18;Stockholms län;Infiniti;08/12/2011
+14;Västra Götalands län;Volvo;11/10/2017
+92;Stockholms län;Volvo;30/11/2012
+60;Stockholms län;JLR;04/12/2017
+98;Dalarnas län;JLR;29/03/2012
+48;Stockholms län;Daihatsu;01/12/2015
+79;Västra Götalands län;Acura;23/09/2011
+58;Västra Götalands län;Acura;23/08/2015
+36;Östergötlands län;Daihatsu;20/02/2014
+98;Jönköpings län;Acura;11/11/2013
+71;Östergötlands län;Subaru;23/01/2011
+24;Västra Götalands län;Ferrari;02/11/2011
+6;Östergötlands län;Audi;17/06/2013
+18;Västra Götalands län;Porsche;04/12/2011
+56;Västra Götalands län;Tata Motors;03/11/2015
+50;Västra Götalands län;Dongfeng Motor;09/03/2012
+25;Östergötlands län;Skoda;09/06/2010
+22;Stockholms län;Mercedes-Benz;07/02/2010
+34;Stockholms län;Ferrari;23/04/2017
+46;Västra Götalands län;Buick;14/03/2014
+88;Jönköpings län;Volkswagen;17/05/2012
+65;Västra Götalands län;Lincoln;20/05/2011
+60;Västra Götalands län;Chrysler;29/01/2015
+44;Västra Götalands län;Skoda;20/12/2015
+89;Stockholms län;Infiniti;02/09/2018
+13;Stockholms län;Lincoln;14/04/2010
+32;Östergötlands län;Subaru;11/12/2013
+25;Östergötlands län;Smart;31/01/2016
+20;Stockholms län;FAW;29/06/2018
+16;Västra Götalands län;Volvo;24/07/2012
+39;Dalarnas län;Honda;04/05/2014
+95;Jönköpings län;Chevrolet;04/02/2016
+52;Stockholms län;General Motors;03/07/2012
+57;Stockholms län;Smart;19/05/2016
+42;Gävleborgs län;Nissan;30/09/2011
+73;Jönköpings län;Renault;08/09/2016
+80;Jönköpings län;Hyundai Motors;20/02/2016
+49;Västra Götalands län;FAW;31/03/2011
+63;Stockholms län;Infiniti;03/11/2011
+100;Stockholms län;Volvo;30/11/2012
+30;Jönköpings län;Honda;12/03/2018
+82;Västra Götalands län;Vauxhall;05/04/2011
+22;Västra Götalands län;Ford;31/12/2016
+42;Östergötlands län;Suzuki;01/08/2018
+20;Stockholms län;JLR;11/10/2014
+31;Dalarnas län;Lincoln;20/03/2011
+85;Västra Götalands län;Kia Motors;17/03/2018
+18;Västra Götalands län;Dongfeng Motor;11/08/2017
+44;Stockholms län;Mazda;09/02/2011
+52;Stockholms län;MINI;29/01/2016
+46;Västra Götalands län;Daimler;10/11/2011
+36;Östergötlands län;Acura;05/07/2016
+18;Stockholms län;Lexus;04/03/2018
+58;Stockholms län;Citroën;20/08/2018
+29;Stockholms län;Acura;28/12/2011
+99;Östergötlands län;GMC;29/12/2015
+80;Jönköpings län;Dacia;13/12/2014
+9;Västra Götalands län;Skoda;13/10/2013
+77;Stockholms län;Daihatsu;06/06/2010
+67;Västra Götalands län;Tata Motors;17/08/2016
+73;Gävleborgs län;Hyundai Motors;21/08/2011
+59;Stockholms län;Audi;19/12/2011
+88;Stockholms län;Dodge;20/12/2010
+85;Västra Götalands län;Dacia;07/05/2010
+84;Stockholms län;Subaru;06/01/2017
+94;Jönköpings län;Buick;13/08/2016
+62;Östergötlands län;Lexus;11/10/2010
+12;Jönköpings län;Peugeot;01/08/2015
+39;Stockholms län;Lincoln;19/02/2013
+20;Gävleborgs län;Porsche;28/08/2012
+78;Dalarnas län;Mazda;23/11/2011
+88;Västra Götalands län;Mitsubishi Motors;01/05/2010
+94;Gävleborgs län;Buick;19/11/2010
+90;Gävleborgs län;Volvo;01/07/2015
+45;Stockholms län;Subaru;04/05/2017
+75;Gävleborgs län;Lincoln;31/03/2012
+92;Östergötlands län;Ford;08/01/2010
+60;Stockholms län;Maruti Suzuki;27/10/2018
+24;Västra Götalands län;Volvo;06/12/2017
+57;Stockholms län;Porsche;23/08/2017
+17;Stockholms län;BMW;30/05/2015
+42;Stockholms län;JLR;26/11/2016
+94;Stockholms län;Tata Motors;04/04/2017
+56;Västra Götalands län;Mercedes-Benz;16/06/2014
+21;Västra Götalands län;Seat;04/07/2013
+79;Stockholms län;Buick;25/08/2017
+89;Västra Götalands län;Kenworth;23/09/2016
+22;Dalarnas län;Fiat;23/05/2016
+39;Dalarnas län;General Motors;30/08/2014
+94;Stockholms län;Renault;04/09/2010
+6;Stockholms län;Audi;02/09/2016
+78;Stockholms län;Dodge;01/06/2018
+14;Östergötlands län;Smart;10/08/2015
+63;Västra Götalands län;Chevrolet;01/04/2017
+98;Västra Götalands län;Lexus;18/10/2016
+56;Västra Götalands län;Kenworth;07/06/2015
+54;Västra Götalands län;Mazda;01/12/2017
+58;Jönköpings län;Mercedes-Benz;19/11/2013
+25;Stockholms län;General Motors;23/02/2016
+91;Stockholms län;Volvo;10/10/2011
+85;Stockholms län;Dodge;07/05/2014
+83;Dalarnas län;Chevrolet;25/03/2018
+65;Västra Götalands län;Dacia;19/03/2010
+15;Östergötlands län;Honda;16/09/2014
+30;Jönköpings län;Dongfeng Motor;21/07/2012
+23;Stockholms län;Fiat;28/05/2010
+39;Stockholms län;Mazda;13/09/2014
+52;Östergötlands län;General Motors;06/07/2010
+82;Jönköpings län;JLR;22/06/2010
+90;Västra Götalands län;Fiat;14/02/2017
+11;Gävleborgs län;RAM Trucks;22/07/2014
+29;Jönköpings län;Volkswagen;29/11/2012
+86;Östergötlands län;Subaru;06/08/2011
+47;Dalarnas län;Daimler;16/10/2010
+12;Östergötlands län;Isuzu;06/05/2016
+43;Gävleborgs län;JLR;11/07/2010
+78;Dalarnas län;Mazda;28/01/2014
+71;Jönköpings län;Peugeot;06/08/2013
+7;Stockholms län;Toyota;23/08/2017
+71;Jönköpings län;Mahindra and Mahindra;28/01/2013
+34;Stockholms län;Toyota;22/04/2011
+97;Jönköpings län;Kenworth;14/10/2011
+75;Stockholms län;FAW;15/04/2014
+50;Stockholms län;Chrysler;28/11/2014
+44;Västra Götalands län;JLR;20/10/2016
+36;Stockholms län;Chevrolet;01/03/2011
+6;Stockholms län;Daimler;22/11/2010
+66;Västra Götalands län;Chrysler;17/02/2010
+92;Stockholms län;Maruti Suzuki;21/06/2011
+6;Östergötlands län;Ford;04/08/2015
+64;Jönköpings län;Toyota;08/06/2018
+48;Västra Götalands län;Mahindra and Mahindra;30/09/2014
+34;Västra Götalands län;Audi;16/12/2010
+44;Dalarnas län;Honda;01/12/2010
+85;Stockholms län;Mitsubishi Motors;30/10/2017
+66;Stockholms län;Dongfeng Motor;26/05/2011
+39;Jönköpings län;Suzuki;03/02/2016
+27;Stockholms län;Mazda;29/09/2011
+58;Västra Götalands län;Mazda;22/11/2013
+82;Stockholms län;Nissan;29/12/2018
+36;Östergötlands län;Citroën;15/04/2012
+9;Jönköpings län;Chrysler;26/12/2016
+40;Jönköpings län;Porsche;29/03/2014
+49;Stockholms län;Kenworth;11/09/2016
+3;Stockholms län;Jeep;29/06/2015
+17;Östergötlands län;RAM Trucks;17/01/2017
+41;Västra Götalands län;Mahindra and Mahindra;04/03/2010
+85;Stockholms län;Daimler;06/04/2010
+20;Västra Götalands län;Lexus;07/05/2015
+92;Stockholms län;Volkswagen;14/06/2015
+95;Stockholms län;Kia Motors;07/05/2017
+9;Östergötlands län;Acura;10/09/2018
+58;Gävleborgs län;Subaru;08/07/2017
+18;Dalarnas län;Daimler;13/11/2014
+44;Stockholms län;Ford;04/12/2012
+80;Jönköpings län;Daihatsu;10/09/2016
+71;Stockholms län;Lincoln;07/07/2015
+6;Stockholms län;Cadillac;21/04/2014
+25;Östergötlands län;Chrysler;28/01/2013
+45;Stockholms län;Peugeot;28/10/2016
+96;Stockholms län;Jeep;25/05/2016
+91;Stockholms län;Suzuki;05/08/2013
+54;Dalarnas län;FAW;22/10/2018
+20;Stockholms län;Citroën;31/10/2018
+22;Östergötlands län;MINI;25/04/2016
+60;Västra Götalands län;Isuzu;24/02/2015
+98;Västra Götalands län;Dacia;07/10/2016
+77;Stockholms län;Lincoln;06/03/2010
+41;Stockholms län;Subaru;29/10/2011
+37;Västra Götalands län;Isuzu;26/04/2016
+58;Östergötlands län;Nissan;12/07/2012
+25;Jönköpings län;General Motors;02/05/2011
+31;Stockholms län;Cadillac;10/02/2011
+61;Stockholms län;Buick;06/11/2015
+78;Dalarnas län;Chevrolet;20/06/2018
+1;Dalarnas län;Audi;10/12/2016
+81;Östergötlands län;GMC;16/12/2015
+84;Stockholms län;Mahindra and Mahindra;03/06/2015
+8;Stockholms län;GMC;10/02/2010
+69;Gävleborgs län;Infiniti;10/04/2014
+35;Östergötlands län;Mitsubishi Motors;20/04/2010
+76;Stockholms län;Lexus;04/05/2018
+44;Västra Götalands län;Dacia;31/10/2016
+30;Västra Götalands län;Audi;07/05/2012
+91;Stockholms län;Smart;29/07/2017
+77;Stockholms län;MINI;12/10/2010
+38;Västra Götalands län;Audi;20/10/2013
+57;Stockholms län;Ford;27/01/2010
+75;Östergötlands län;Nissan;28/02/2013
+93;Stockholms län;Vauxhall;04/05/2016
+67;Jönköpings län;Audi;18/09/2013
+52;Östergötlands län;Dacia;04/01/2012
+32;Jönköpings län;Isuzu;30/04/2017
+47;Västra Götalands län;Audi;13/11/2017
+63;Gävleborgs län;Volvo;30/05/2016
+42;Västra Götalands län;MINI;11/12/2011
+48;Stockholms län;Ford;31/07/2014
+16;Stockholms län;Ferrari;03/11/2010
+45;Dalarnas län;Dongfeng Motor;26/02/2012
+65;Stockholms län;BMW;23/11/2015
+98;Östergötlands län;Daihatsu;06/02/2018
+8;Jönköpings län;RAM Trucks;30/05/2018
+99;Västra Götalands län;Daimler;28/07/2016
+81;Västra Götalands län;Nissan;02/07/2015
+45;Västra Götalands län;Jeep;12/07/2013
+97;Jönköpings län;Kenworth;02/09/2018
+38;Stockholms län;RAM Trucks;12/09/2010
+49;Stockholms län;Fiat;26/06/2015
+21;Västra Götalands län;Lincoln;04/01/2012
+58;Stockholms län;Lincoln;10/11/2016
+38;Västra Götalands län;FAW;09/05/2013
+51;Stockholms län;Mahindra and Mahindra;22/12/2016
+48;Dalarnas län;Seat;06/08/2015
+58;Dalarnas län;Ferrari;11/08/2018
+70;Gävleborgs län;Skoda;03/10/2015
+1;Västra Götalands län;MINI;15/04/2014
+37;Dalarnas län;Infiniti;15/11/2013
+81;Gävleborgs län;Lexus;21/04/2015
+92;Västra Götalands län;Volkswagen;31/12/2018
+59;Stockholms län;Citroën;06/09/2015
+75;Jönköpings län;Mitsubishi Motors;27/05/2014
+58;Östergötlands län;Volvo;09/03/2010
+60;Västra Götalands län;Suzuki;04/08/2014
+83;Stockholms län;Porsche;05/06/2010
+17;Jönköpings län;Porsche;01/11/2011
+10;Stockholms län;Chevrolet;19/11/2012
+70;Västra Götalands län;Lincoln;07/09/2011
+42;Gävleborgs län;Tata Motors;25/10/2015
+12;Östergötlands län;Kia Motors;09/10/2013
+92;Stockholms län;RAM Trucks;22/06/2013
+29;Västra Götalands län;BMW;07/07/2012
+75;Stockholms län;Dongfeng Motor;18/12/2016
+10;Jönköpings län;Volvo;28/04/2018
+84;Östergötlands län;Vauxhall;15/03/2013
+82;Jönköpings län;Audi;25/02/2010
+73;Stockholms län;Chevrolet;12/01/2013
+10;Stockholms län;RAM Trucks;16/12/2013
+92;Västra Götalands län;Lexus;29/05/2014
+73;Gävleborgs län;Volkswagen;10/07/2010
+98;Jönköpings län;Mazda;26/08/2017
+18;Stockholms län;Audi;04/12/2017
+83;Stockholms län;Lincoln;03/07/2016
+54;Västra Götalands län;Kia Motors;30/01/2011
+57;Dalarnas län;Lexus;02/01/2016
+89;Stockholms län;Lexus;12/11/2014
+86;Stockholms län;Tata Motors;07/08/2013
+89;Stockholms län;Lincoln;20/03/2017
+42;Dalarnas län;Peugeot;12/09/2013
+94;Östergötlands län;Dacia;23/07/2010
+15;Västra Götalands län;Chevrolet;30/08/2013
+93;Västra Götalands län;Vauxhall;25/07/2012
+27;Stockholms län;General Motors;17/02/2013
+52;Stockholms län;Nissan;18/08/2017
+26;Västra Götalands län;Seat;06/04/2015
+55;Stockholms län;Porsche;30/06/2010
+82;Jönköpings län;Seat;03/11/2014
+76;Dalarnas län;Hyundai Motors;30/05/2010
+93;Östergötlands län;General Motors;17/09/2017
+33;Stockholms län;Mazda;16/07/2016
+63;Stockholms län;Nissan;14/07/2014
+68;Västra Götalands län;GMC;06/10/2017
+4;Stockholms län;Renault;02/04/2015
+7;Västra Götalands län;Mercedes-Benz;22/05/2014
+46;Dalarnas län;Chevrolet;31/03/2011
+94;Jönköpings län;Nissan;18/08/2010
+88;Västra Götalands län;Mercedes-Benz;28/08/2015
+68;Stockholms län;Daimler;24/11/2011
+37;Stockholms län;Volkswagen;05/10/2015
+23;Jönköpings län;Kenworth;30/05/2016
+10;Gävleborgs län;FAW;30/01/2011
+96;Jönköpings län;Dodge;12/03/2018
+83;Stockholms län;JLR;07/08/2010
+40;Stockholms län;Porsche;19/01/2017
+76;Jönköpings län;Buick;10/07/2013
+20;Stockholms län;Toyota;21/11/2013
+76;Stockholms län;Ford;15/09/2013
+12;Västra Götalands län;Lexus;11/09/2011
+38;Västra Götalands län;Acura;26/12/2014
+9;Jönköpings län;Lexus;25/06/2017
+15;Stockholms län;Kia Motors;17/08/2014
+32;Stockholms län;Buick;21/11/2011
+15;Jönköpings län;Smart;15/05/2015
+14;Jönköpings län;Dodge;13/08/2011
+65;Västra Götalands län;Ferrari;23/05/2018
+37;Stockholms län;Seat;23/08/2015
+67;Stockholms län;Seat;20/12/2018
+42;Västra Götalands län;Isuzu;17/05/2014
+59;Gävleborgs län;Audi;26/08/2018
+77;Västra Götalands län;Infiniti;15/11/2014
+20;Västra Götalands län;Suzuki;20/04/2010
+14;Västra Götalands län;Tata Motors;20/04/2011
+27;Stockholms län;Audi;19/07/2012
+47;Stockholms län;Hyundai Motors;28/06/2011
+85;Jönköpings län;Nissan;25/11/2017
+99;Stockholms län;FAW;17/12/2011
+81;Västra Götalands län;GMC;26/02/2013
+38;Östergötlands län;Daimler;04/01/2012
+50;Gävleborgs län;Chrysler;23/09/2014
+78;Västra Götalands län;Smart;12/03/2013
+77;Stockholms län;Chrysler;10/03/2012
+73;Stockholms län;Mahindra and Mahindra;02/05/2013
+3;Stockholms län;JLR;28/09/2013
+13;Östergötlands län;Mitsubishi Motors;15/12/2011
+87;Stockholms län;Lincoln;25/03/2016
+1;Östergötlands län;Mercedes-Benz;09/10/2016
+90;Stockholms län;Lexus;03/01/2011
+1;Stockholms län;Chrysler;08/10/2012
+49;Stockholms län;Ferrari;23/11/2018
+12;Stockholms län;Dodge;01/06/2015
+15;Jönköpings län;Subaru;08/10/2013
+48;Västra Götalands län;Acura;07/01/2017
+55;Västra Götalands län;Maruti Suzuki;22/03/2016
+5;Stockholms län;Dongfeng Motor;12/04/2010
+93;Västra Götalands län;Chevrolet;28/07/2012
+76;Jönköpings län;Maruti Suzuki;20/05/2010
+95;Gävleborgs län;Maruti Suzuki;20/07/2015
+8;Västra Götalands län;Chrysler;11/05/2016
+26;Dalarnas län;Audi;20/04/2017
+3;Stockholms län;Infiniti;26/07/2016
+67;Stockholms län;Mitsubishi Motors;23/08/2015
+10;Östergötlands län;Daihatsu;23/03/2014
+56;Västra Götalands län;FAW;03/03/2011
+93;Jönköpings län;Chrysler;20/03/2015
+15;Jönköpings län;MINI;01/10/2011
+88;Stockholms län;Buick;01/09/2011
+46;Västra Götalands län;Peugeot;27/12/2018
+38;Stockholms län;Volvo;09/09/2014
+63;Östergötlands län;Citroën;13/10/2011
+1;Jönköpings län;Mitsubishi Motors;06/05/2016
+33;Västra Götalands län;Porsche;06/11/2015
+9;Västra Götalands län;Peugeot;11/04/2014
+50;Västra Götalands län;Citroën;30/05/2016
+44;Stockholms län;Suzuki;17/09/2014
+4;Jönköpings län;Skoda;11/05/2011
+1;Stockholms län;Volkswagen;11/08/2017
+73;Stockholms län;Mercedes-Benz;10/07/2014
+2;Stockholms län;GMC;24/04/2017
+23;Gävleborgs län;MINI;27/07/2011
+48;Jönköpings län;Kia Motors;06/12/2018
+60;Stockholms län;Daihatsu;17/05/2011
+87;Stockholms län;Lincoln;27/10/2010
+65;Västra Götalands län;Chrysler;09/04/2016
+74;Västra Götalands län;Dodge;15/01/2013
+83;Stockholms län;Lexus;01/09/2014
+24;Gävleborgs län;Citroën;13/05/2018
+29;Gävleborgs län;RAM Trucks;06/09/2016
+60;Östergötlands län;Acura;23/01/2016
+9;Västra Götalands län;Subaru;30/10/2015
+100;Jönköpings län;Acura;06/07/2012
+71;Västra Götalands län;Nissan;22/02/2013
+15;Västra Götalands län;JLR;06/08/2010
+49;Västra Götalands län;Acura;10/09/2010
+99;Gävleborgs län;Skoda;25/12/2011
+56;Östergötlands län;Mitsubishi Motors;09/09/2018
+44;Östergötlands län;Volvo;19/07/2015
+67;Stockholms län;Kenworth;07/04/2017
+20;Västra Götalands län;Mercedes-Benz;06/02/2013
+56;Dalarnas län;General Motors;31/03/2014
+29;Stockholms län;Honda;19/09/2012
+32;Jönköpings län;Daimler;17/09/2013
+47;Västra Götalands län;Citroën;09/10/2017
+24;Jönköpings län;Subaru;14/05/2012
+4;Östergötlands län;Smart;07/08/2011
+75;Gävleborgs län;Daimler;31/12/2012
+92;Jönköpings län;Audi;15/01/2016
+68;Stockholms län;Mahindra and Mahindra;29/07/2018
+1;Västra Götalands län;Renault;03/11/2018
+96;Västra Götalands län;BMW;07/11/2011
+92;Västra Götalands län;General Motors;01/09/2013
+36;Stockholms län;Isuzu;27/05/2014
+45;Stockholms län;Mazda;10/11/2010
+46;Västra Götalands län;Hyundai Motors;17/07/2013
+64;Stockholms län;Chevrolet;20/03/2010
+40;Jönköpings län;Skoda;12/07/2015
+4;Jönköpings län;Mitsubishi Motors;03/09/2016
+99;Stockholms län;Fiat;22/05/2010
+5;Stockholms län;Isuzu;18/03/2014
+56;Östergötlands län;Mercedes-Benz;20/05/2012
+56;Jönköpings län;Ford;28/10/2017
+19;Jönköpings län;Mazda;07/07/2014
+37;Stockholms län;Acura;08/09/2014
+32;Västra Götalands län;Vauxhall;08/07/2013
+48;Västra Götalands län;Mercedes-Benz;24/01/2013
+23;Västra Götalands län;Volvo;16/08/2012
+55;Västra Götalands län;Fiat;14/05/2013
+69;Västra Götalands län;BMW;30/09/2016
+60;Stockholms län;Daimler;10/04/2014
+51;Jönköpings län;Mazda;13/03/2011
+78;Västra Götalands län;Mercedes-Benz;16/11/2018
+14;Stockholms län;Citroën;08/05/2011
+9;Östergötlands län;General Motors;03/04/2017
+14;Dalarnas län;Mercedes-Benz;11/09/2013
+40;Stockholms län;Honda;04/05/2011
+52;Stockholms län;Renault;12/02/2016
+74;Stockholms län;Maruti Suzuki;28/09/2017
+26;Dalarnas län;Ford;23/11/2016
+82;Stockholms län;Subaru;01/04/2015
+67;Jönköpings län;Volvo;25/01/2012
+24;Västra Götalands län;Porsche;15/05/2010
+37;Stockholms län;GMC;02/09/2015
+1;Gävleborgs län;Vauxhall;27/01/2017
+90;Stockholms län;Volkswagen;28/08/2017
+60;Jönköpings län;BMW;21/11/2016
+52;Östergötlands län;Kenworth;02/01/2011
+38;Stockholms län;RAM Trucks;23/11/2010
+34;Östergötlands län;Hyundai Motors;19/12/2017
+81;Västra Götalands län;Mitsubishi Motors;05/05/2013
+89;Stockholms län;Dacia;13/09/2011
+76;Stockholms län;Lexus;02/07/2018
+5;Stockholms län;Chevrolet;30/01/2016
+56;Dalarnas län;Honda;19/08/2011
+69;Stockholms län;JLR;28/04/2013
+86;Dalarnas län;GMC;02/07/2018
+47;Stockholms län;Seat;07/05/2011
+2;Jönköpings län;Skoda;06/08/2014
+60;Västra Götalands län;Lincoln;09/11/2018
+45;Västra Götalands län;Mercedes-Benz;20/12/2018
+22;Västra Götalands län;Volvo;21/03/2017
+48;Jönköpings län;Kenworth;24/10/2011
+34;Stockholms län;Volkswagen;19/08/2011
+16;Stockholms län;Fiat;14/08/2017
+64;Gävleborgs län;Chevrolet;27/04/2016
+29;Stockholms län;Toyota;14/07/2017
+32;Dalarnas län;Citroën;13/08/2013
+77;Stockholms län;Daihatsu;16/12/2012
+59;Stockholms län;Chrysler;30/09/2011
+43;Stockholms län;Kenworth;24/03/2013
+3;Gävleborgs län;Skoda;29/11/2018
+20;Stockholms län;Cadillac;06/01/2014
+66;Stockholms län;Chevrolet;21/05/2018
+77;Jönköpings län;Smart;05/01/2015
+99;Dalarnas län;Ferrari;30/06/2015
+17;Jönköpings län;Kia Motors;26/04/2015
+16;Stockholms län;Honda;25/02/2010
+54;Stockholms län;Nissan;28/01/2014
+38;Västra Götalands län;Renault;26/05/2010
+56;Stockholms län;Kia Motors;18/03/2013
+37;Östergötlands län;Renault;10/11/2014
+63;Stockholms län;MINI;18/02/2012
+55;Stockholms län;Hyundai Motors;24/02/2017
+60;Stockholms län;GMC;22/03/2013
+45;Stockholms län;Chevrolet;27/01/2014
+64;Dalarnas län;Volvo;18/01/2016
+25;Gävleborgs län;Mazda;16/12/2016
+28;Stockholms län;Honda;30/10/2013
+83;Stockholms län;Ford;28/01/2018
+93;Jönköpings län;Audi;05/03/2015
+68;Västra Götalands län;Peugeot;27/12/2018
+57;Jönköpings län;Tata Motors;23/11/2012
+55;Stockholms län;Seat;15/05/2010
+45;Västra Götalands län;Mercedes-Benz;17/12/2011
+18;Gävleborgs län;Fiat;16/11/2014
+51;Västra Götalands län;Isuzu;24/11/2010
+52;Jönköpings län;Kia Motors;06/02/2013
+34;Stockholms län;Mercedes-Benz;17/05/2017
+12;Stockholms län;General Motors;14/12/2011
+15;Västra Götalands län;Jeep;26/02/2015
+85;Västra Götalands län;Ford;22/06/2014
+28;Västra Götalands län;Acura;21/08/2018
+57;Stockholms län;Isuzu;21/10/2016
+93;Gävleborgs län;Mercedes-Benz;04/04/2018
+86;Stockholms län;Nissan;27/11/2011
+39;Stockholms län;Volkswagen;30/12/2010
+90;Östergötlands län;Audi;20/02/2011
+73;Östergötlands län;FAW;22/04/2012
+63;Stockholms län;Skoda;19/05/2011
+9;Jönköpings län;Audi;11/06/2018
+10;Västra Götalands län;Isuzu;17/03/2017
+74;Gävleborgs län;BMW;19/04/2016
+83;Västra Götalands län;Peugeot;23/01/2015
+56;Västra Götalands län;Nissan;25/03/2012
+12;Östergötlands län;Lincoln;11/01/2013
+42;Västra Götalands län;Kia Motors;28/11/2015
+81;Stockholms län;Skoda;03/06/2014
+41;Stockholms län;Kenworth;29/10/2013
+54;Västra Götalands län;Daihatsu;23/01/2016
+10;Stockholms län;Mitsubishi Motors;27/05/2010
+60;Stockholms län;Acura;04/01/2011
+13;Västra Götalands län;BMW;16/02/2014
+61;Stockholms län;Maruti Suzuki;04/05/2012
+12;Stockholms län;Subaru;03/04/2012
+58;Stockholms län;Skoda;06/02/2014
+78;Dalarnas län;Lincoln;13/01/2015
+15;Jönköpings län;Suzuki;05/06/2012
+70;Östergötlands län;Renault;05/11/2010
+43;Västra Götalands län;Honda;09/03/2010
+80;Västra Götalands län;General Motors;04/08/2014
+56;Östergötlands län;Peugeot;01/03/2010
+50;Stockholms län;Tata Motors;19/05/2011
+61;Västra Götalands län;Cadillac;09/04/2015
+35;Västra Götalands län;Citroën;07/01/2013
+51;Östergötlands län;Skoda;15/12/2012
+42;Gävleborgs län;Chevrolet;22/09/2018
+45;Stockholms län;Dodge;03/02/2016
+11;Västra Götalands län;Tata Motors;26/08/2017
+67;Västra Götalands län;Volvo;29/04/2017
+37;Gävleborgs län;Chevrolet;08/08/2015
+56;Västra Götalands län;Vauxhall;03/08/2015
+25;Dalarnas län;Buick;18/08/2015
+17;Jönköpings län;RAM Trucks;17/09/2018
+52;Västra Götalands län;Smart;02/12/2016
+44;Västra Götalands län;Seat;27/11/2014
+37;Östergötlands län;BMW;23/03/2016
+61;Stockholms län;Infiniti;29/10/2011
+9;Stockholms län;Vauxhall;21/05/2011
+57;Jönköpings län;Ford;27/06/2014
+59;Stockholms län;Porsche;16/02/2016
+58;Gävleborgs län;RAM Trucks;21/05/2015
+28;Stockholms län;Peugeot;06/06/2016
+30;Västra Götalands län;Seat;16/11/2013
+65;Jönköpings län;FAW;19/02/2017
+19;Gävleborgs län;Lincoln;23/01/2017
+72;Västra Götalands län;Lexus;15/02/2011
+4;Jönköpings län;Tata Motors;09/07/2011
+3;Västra Götalands län;Kenworth;16/07/2010
+39;Stockholms län;RAM Trucks;09/01/2011
+43;Gävleborgs län;Vauxhall;31/08/2015
+69;Västra Götalands län;Smart;30/03/2017
+90;Östergötlands län;Toyota;19/06/2018
+13;Västra Götalands län;Toyota;17/04/2010
+84;Östergötlands län;Dacia;25/10/2018
+50;Stockholms län;Suzuki;15/09/2012
+8;Östergötlands län;Peugeot;18/10/2015
+57;Jönköpings län;MINI;13/01/2015
+95;Västra Götalands län;Suzuki;03/10/2013
+49;Jönköpings län;Ferrari;23/03/2017
+94;Stockholms län;Chevrolet;11/08/2010
+65;Stockholms län;Mahindra and Mahindra;23/02/2017
+15;Stockholms län;Dacia;04/09/2013
+32;Stockholms län;Volvo;15/10/2018
+5;Östergötlands län;Nissan;06/12/2015
+54;Jönköpings län;Ferrari;30/09/2011
+42;Västra Götalands län;Ford;02/04/2017
+34;Västra Götalands län;FAW;20/10/2015
+61;Västra Götalands län;Subaru;15/07/2011
+82;Västra Götalands län;Chevrolet;15/12/2016
+28;Stockholms län;Volvo;28/04/2017
+86;Jönköpings län;Peugeot;05/01/2015
+58;Västra Götalands län;Acura;04/11/2013
+78;Östergötlands län;Daimler;29/04/2011
+24;Västra Götalands län;Dacia;30/06/2011
+91;Västra Götalands län;JLR;13/07/2014
+87;Stockholms län;JLR;28/10/2015
+31;Stockholms län;Peugeot;13/01/2013
+56;Stockholms län;Maruti Suzuki;05/07/2015
+63;Stockholms län;Daimler;11/12/2016
+14;Jönköpings län;Audi;24/12/2016
+2;Västra Götalands län;Buick;22/02/2011
+90;Västra Götalands län;Maruti Suzuki;07/07/2017
+3;Jönköpings län;Suzuki;19/10/2011
+52;Stockholms län;Buick;23/04/2017
+2;Stockholms län;Subaru;01/12/2013
+52;Stockholms län;Daihatsu;04/07/2011
+72;Västra Götalands län;Ford;27/12/2015
+61;Stockholms län;Daihatsu;15/01/2017
+24;Gävleborgs län;Volkswagen;10/12/2011
+72;Västra Götalands län;FAW;21/02/2011
+80;Stockholms län;Hyundai Motors;20/09/2012
+14;Jönköpings län;Mitsubishi Motors;12/08/2018
+89;Stockholms län;Cadillac;03/07/2016
+30;Stockholms län;Fiat;23/08/2017
+30;Västra Götalands län;Citroën;17/04/2017
+81;Östergötlands län;Seat;15/10/2011
+7;Västra Götalands län;Kia Motors;03/05/2014
+8;Stockholms län;Chrysler;08/11/2013
+29;Stockholms län;Renault;25/12/2010
+40;Jönköpings län;JLR;24/08/2011
+74;Västra Götalands län;MINI;07/10/2013
+54;Stockholms län;Honda;21/12/2017
+52;Östergötlands län;Lexus;07/11/2010
+35;Gävleborgs län;Buick;24/08/2014
+45;Västra Götalands län;GMC;23/02/2013
+71;Västra Götalands län;GMC;20/05/2012
+94;Östergötlands län;Nissan;26/12/2015
+96;Östergötlands län;Seat;07/09/2015
+75;Östergötlands län;Mitsubishi Motors;27/10/2010
+59;Stockholms län;Skoda;10/09/2015
+23;Stockholms län;Nissan;29/07/2010
+46;Gävleborgs län;Tata Motors;12/03/2010
+65;Östergötlands län;Tata Motors;01/07/2010
+59;Västra Götalands län;General Motors;12/03/2011
+21;Västra Götalands län;Buick;22/03/2010
+98;Östergötlands län;Isuzu;05/08/2013
+7;Stockholms län;Fiat;05/07/2015
+71;Stockholms län;Acura;10/09/2012
+74;Dalarnas län;RAM Trucks;21/01/2017
+18;Västra Götalands län;Volvo;16/10/2016
+49;Gävleborgs län;RAM Trucks;25/03/2014
+24;Stockholms län;Ferrari;28/08/2013
+80;Stockholms län;Tata Motors;05/12/2017
+94;Östergötlands län;BMW;02/09/2013
+75;Östergötlands län;Lexus;25/09/2013
+18;Västra Götalands län;Daihatsu;27/06/2010
+50;Jönköpings län;Infiniti;28/09/2016
+20;Västra Götalands län;Citroën;15/07/2016
+21;Jönköpings län;Volkswagen;03/12/2017
+86;Jönköpings län;JLR;13/04/2013
+1;Jönköpings län;JLR;11/04/2013
+97;Gävleborgs län;Cadillac;04/06/2018
+88;Stockholms län;Daihatsu;01/03/2010
+27;Västra Götalands län;Lincoln;16/08/2012
+89;Dalarnas län;Citroën;14/07/2014
+25;Västra Götalands län;Hyundai Motors;23/09/2010
+64;Gävleborgs län;Dacia;06/05/2011
+7;Stockholms län;Seat;17/11/2012
+66;Gävleborgs län;Peugeot;17/09/2011
+68;Stockholms län;Infiniti;28/12/2010
+72;Gävleborgs län;Dongfeng Motor;03/05/2011
+2;Stockholms län;Lexus;08/06/2016
+37;Östergötlands län;Skoda;26/04/2013
+96;Jönköpings län;FAW;07/07/2016
+17;Gävleborgs län;Suzuki;18/01/2016
+38;Västra Götalands län;Skoda;07/11/2015
+3;Stockholms län;Infiniti;20/10/2011
+76;Jönköpings län;Lexus;03/04/2012
+94;Dalarnas län;Dacia;17/06/2014
+67;Stockholms län;Dacia;24/04/2011
+71;Västra Götalands län;Volvo;29/10/2017
+49;Västra Götalands län;Cadillac;22/07/2010
+51;Stockholms län;Nissan;15/10/2014
+62;Stockholms län;General Motors;09/09/2017
+53;Dalarnas län;Isuzu;16/05/2018
+87;Jönköpings län;JLR;27/02/2016
+77;Jönköpings län;Daimler;04/06/2012
+90;Västra Götalands län;Honda;11/06/2010
+11;Jönköpings län;Daihatsu;13/02/2013
+48;Dalarnas län;Honda;30/03/2010
+1;Stockholms län;Dodge;30/12/2015
+88;Västra Götalands län;Acura;18/02/2017
+83;Västra Götalands län;Daimler;08/08/2017
+39;Västra Götalands län;BMW;04/03/2014
+82;Dalarnas län;Dodge;01/09/2011
+7;Västra Götalands län;Daimler;15/03/2010
+17;Stockholms län;GMC;04/12/2014
+3;Stockholms län;Dodge;14/11/2011
+78;Stockholms län;Isuzu;21/12/2013
+45;Västra Götalands län;Daimler;08/07/2015
+55;Stockholms län;RAM Trucks;03/08/2012
+74;Jönköpings län;Mercedes-Benz;14/06/2012
+49;Jönköpings län;Daimler;30/12/2014
+92;Västra Götalands län;MINI;13/03/2017
+74;Gävleborgs län;BMW;03/03/2016
+24;Östergötlands län;Citroën;07/12/2017
+50;Dalarnas län;Volkswagen;06/01/2016
+6;Dalarnas län;Seat;20/06/2015
+72;Västra Götalands län;Fiat;25/06/2018
+93;Östergötlands län;Fiat;16/08/2011
+39;Stockholms län;Dongfeng Motor;19/08/2016
+71;Jönköpings län;Chevrolet;23/11/2015
+93;Jönköpings län;FAW;11/03/2015
+5;Stockholms län;FAW;20/01/2014
+54;Västra Götalands län;Chevrolet;14/10/2010
+3;Dalarnas län;Lincoln;10/03/2012
+90;Östergötlands län;Vauxhall;11/09/2011
+26;Stockholms län;RAM Trucks;16/09/2018
+53;Östergötlands län;Mazda;20/10/2011
+55;Stockholms län;GMC;12/02/2011
+27;Gävleborgs län;Maruti Suzuki;17/04/2014
+11;Östergötlands län;Subaru;01/08/2012
+1;Östergötlands län;Kenworth;17/01/2012
+93;Östergötlands län;Isuzu;17/08/2012
+2;Västra Götalands län;Cadillac;10/03/2012
+4;Västra Götalands län;Renault;19/09/2018
+38;Västra Götalands län;Suzuki;01/09/2010
+1;Stockholms län;Smart;24/10/2015
+13;Östergötlands län;Mazda;13/07/2010
+31;Stockholms län;Honda;15/01/2018
+26;Västra Götalands län;Dodge;15/02/2011
+25;Stockholms län;FAW;12/06/2018
+15;Stockholms län;BMW;14/03/2012
+84;Stockholms län;Honda;22/11/2017
+82;Stockholms län;FAW;29/08/2011
+50;Västra Götalands län;Mazda;31/03/2011
+75;Stockholms län;Dacia;26/01/2013
+94;Stockholms län;Daihatsu;21/09/2010
+28;Östergötlands län;Buick;17/09/2010
+42;Västra Götalands län;Mercedes-Benz;13/11/2012
+5;Jönköpings län;Maruti Suzuki;03/04/2013
+43;Västra Götalands län;Volkswagen;27/12/2012
+80;Västra Götalands län;JLR;02/12/2017
+4;Dalarnas län;Ferrari;12/08/2015
+8;Gävleborgs län;MINI;09/03/2018
+41;Stockholms län;JLR;14/01/2010
+43;Stockholms län;Renault;23/08/2010
+40;Västra Götalands län;Audi;13/07/2011
+48;Östergötlands län;Volvo;22/12/2015
+44;Jönköpings län;Lincoln;18/04/2012
+67;Västra Götalands län;Acura;12/07/2014
+97;Jönköpings län;Subaru;29/03/2010
+91;Stockholms län;Fiat;12/01/2010
+1;Jönköpings län;Kenworth;22/12/2016
+95;Västra Götalands län;Lincoln;25/02/2015
+74;Östergötlands län;Toyota;12/04/2012
+5;Stockholms län;GMC;28/06/2012
+49;Västra Götalands län;Lincoln;18/06/2016
+37;Stockholms län;Mercedes-Benz;28/01/2018
+23;Östergötlands län;Hyundai Motors;04/11/2013
+47;Västra Götalands län;Chrysler;17/07/2018
+52;Stockholms län;Vauxhall;26/04/2017
+14;Östergötlands län;Vauxhall;01/11/2016
+38;Jönköpings län;Renault;24/06/2012
+92;Västra Götalands län;Citroën;22/09/2017
+17;Stockholms län;Subaru;12/10/2011
+80;Östergötlands län;Honda;30/09/2015
+74;Dalarnas län;Nissan;05/03/2014
+98;Gävleborgs län;Fiat;12/07/2016
+100;Östergötlands län;Hyundai Motors;19/09/2018
+82;Stockholms län;Acura;10/10/2017
+78;Jönköpings län;Subaru;12/11/2018
+62;Gävleborgs län;Chevrolet;05/08/2016
+38;Stockholms län;Buick;28/10/2018
+52;Östergötlands län;Buick;08/02/2018
+62;Jönköpings län;Dodge;08/05/2010
+38;Stockholms län;Mitsubishi Motors;03/10/2014
+23;Västra Götalands län;Ford;16/10/2010
+13;Västra Götalands län;Daihatsu;29/08/2014
+14;Östergötlands län;Porsche;14/03/2017
+78;Västra Götalands län;Infiniti;01/12/2014
+8;Stockholms län;Skoda;10/08/2015
+73;Västra Götalands län;Mazda;22/08/2018
+66;Västra Götalands län;Daihatsu;18/04/2012
+28;Västra Götalands län;FAW;20/01/2018
+49;Stockholms län;Infiniti;19/11/2017
+48;Stockholms län;Mazda;07/07/2013
+4;Västra Götalands län;Mitsubishi Motors;26/04/2015
+42;Jönköpings län;Nissan;09/09/2010
+11;Stockholms län;Ford;15/04/2013
+70;Stockholms län;BMW;09/10/2017
+20;Dalarnas län;Renault;29/10/2013
+67;Dalarnas län;Dodge;27/02/2016
+100;Dalarnas län;Daimler;16/12/2013
+59;Stockholms län;Fiat;09/09/2017
+55;Västra Götalands län;Smart;19/05/2017
+50;Östergötlands län;Dongfeng Motor;01/06/2016
+75;Gävleborgs län;FAW;23/09/2013
+42;Jönköpings län;Peugeot;04/06/2016
+65;Stockholms län;Ford;19/05/2017
+71;Västra Götalands län;Ford;13/10/2011
+54;Västra Götalands län;Tata Motors;03/02/2015
+32;Östergötlands län;Fiat;03/04/2016
+30;Stockholms län;Citroën;26/06/2011
+21;Västra Götalands län;Suzuki;19/01/2015
+48;Västra Götalands län;Acura;18/09/2018
+18;Västra Götalands län;Isuzu;01/10/2010
+1;Västra Götalands län;MINI;29/11/2015
+3;Stockholms län;RAM Trucks;09/03/2014
+79;Västra Götalands län;Smart;20/02/2015
+85;Västra Götalands län;Suzuki;05/09/2016
+77;Stockholms län;Fiat;07/04/2014
+5;Jönköpings län;Fiat;23/02/2016
+24;Gävleborgs län;Mahindra and Mahindra;23/11/2011
+67;Stockholms län;Kia Motors;10/04/2011
+92;Gävleborgs län;Buick;08/04/2018
+4;Västra Götalands län;Skoda;15/09/2011
+95;Stockholms län;Chrysler;11/06/2015
+49;Gävleborgs län;Seat;09/02/2010
+10;Västra Götalands län;Lexus;11/08/2016
+28;Jönköpings län;Toyota;25/08/2016
+13;Stockholms län;Ford;13/12/2016
+21;Östergötlands län;Mahindra and Mahindra;30/12/2013
+94;Västra Götalands län;Kenworth;03/05/2013
+68;Stockholms län;Mitsubishi Motors;04/12/2010
+95;Gävleborgs län;GMC;08/04/2017
+7;Stockholms län;Subaru;31/07/2018
+39;Gävleborgs län;Nissan;31/08/2016
+89;Dalarnas län;Lincoln;03/04/2016
+67;Stockholms län;Mercedes-Benz;05/07/2014
+2;Dalarnas län;Acura;28/08/2016
+87;Västra Götalands län;Suzuki;08/09/2017
+6;Stockholms län;Subaru;10/01/2013
+44;Stockholms län;Peugeot;03/01/2013
+54;Stockholms län;Volvo;28/03/2018
+22;Stockholms län;RAM Trucks;03/05/2014
+36;Västra Götalands län;MINI;06/11/2013
+98;Västra Götalands län;Kia Motors;11/08/2016
+73;Gävleborgs län;Skoda;12/07/2014
+18;Östergötlands län;Infiniti;14/03/2014
+36;Jönköpings län;Porsche;14/05/2014
+51;Stockholms län;Daihatsu;17/10/2011
+37;Västra Götalands län;Peugeot;08/03/2013
+72;Västra Götalands län;Volkswagen;12/12/2012
+11;Stockholms län;Ford;01/02/2011
+85;Dalarnas län;Porsche;22/03/2015
+22;Västra Götalands län;Audi;17/08/2014
+49;Stockholms län;Volkswagen;16/09/2017
+9;Stockholms län;Mitsubishi Motors;24/04/2017
+99;Stockholms län;Fiat;08/12/2017
+72;Västra Götalands län;Tata Motors;13/02/2016
+12;Dalarnas län;Infiniti;15/01/2013
+31;Dalarnas län;Chrysler;23/09/2012
+89;Stockholms län;Isuzu;29/04/2013
+76;Västra Götalands län;Acura;13/10/2017
+9;Västra Götalands län;Volkswagen;06/04/2011
+79;Stockholms län;Vauxhall;27/10/2010
+42;Östergötlands län;FAW;30/08/2014
+97;Östergötlands län;Nissan;13/03/2017
+60;Gävleborgs län;Infiniti;05/02/2013
+27;Västra Götalands län;General Motors;20/09/2010
+36;Dalarnas län;Chrysler;16/03/2010
+31;Stockholms län;Porsche;31/07/2014
+25;Östergötlands län;Mercedes-Benz;15/12/2018
+33;Västra Götalands län;Subaru;13/11/2010
+91;Västra Götalands län;Ford;07/02/2013
+4;Stockholms län;Subaru;01/11/2011
+45;Västra Götalands län;Fiat;03/03/2012
+30;Stockholms län;GMC;17/07/2016
+100;Gävleborgs län;Dacia;14/08/2015
+55;Dalarnas län;Dongfeng Motor;20/11/2015
+81;Jönköpings län;Cadillac;06/03/2018
+79;Stockholms län;Tata Motors;29/12/2011
+24;Västra Götalands län;Ford;12/07/2013
+47;Dalarnas län;Smart;23/05/2018
+74;Jönköpings län;Volvo;18/09/2011
+70;Västra Götalands län;Chevrolet;12/12/2015
+84;Jönköpings län;FAW;13/04/2018
+19;Östergötlands län;Renault;04/11/2016
+46;Västra Götalands län;Kenworth;12/11/2017
+79;Östergötlands län;Porsche;03/03/2011
+66;Västra Götalands län;Kenworth;21/06/2017
+56;Stockholms län;Isuzu;04/01/2015
+59;Stockholms län;GMC;12/05/2016
+71;Västra Götalands län;Chrysler;19/05/2018
+20;Dalarnas län;Kenworth;11/04/2012
+31;Östergötlands län;JLR;20/04/2013
+40;Stockholms län;Mazda;15/07/2018
+28;Östergötlands län;GMC;02/05/2012
+74;Stockholms län;Honda;02/06/2010
+20;Stockholms län;Citroën;12/02/2010
+37;Jönköpings län;Citroën;23/03/2015
+35;Dalarnas län;Hyundai Motors;26/08/2016
+45;Dalarnas län;Smart;22/06/2011
+26;Gävleborgs län;Mercedes-Benz;28/08/2010
+7;Västra Götalands län;Dongfeng Motor;08/12/2015
+50;Gävleborgs län;FAW;17/10/2012
+95;Stockholms län;Peugeot;08/03/2017
+51;Stockholms län;Infiniti;16/02/2010
+68;Västra Götalands län;Hyundai Motors;15/03/2013
+9;Västra Götalands län;Audi;24/06/2016
+37;Stockholms län;Honda;30/01/2010
+21;Västra Götalands län;Chrysler;10/11/2013
+73;Gävleborgs län;Hyundai Motors;04/05/2012
+82;Västra Götalands län;Dacia;02/01/2014
+17;Jönköpings län;JLR;26/06/2011
+50;Västra Götalands län;MINI;25/11/2018
+25;Stockholms län;Fiat;12/08/2010
+49;Stockholms län;Lexus;11/08/2014
+85;Östergötlands län;Kenworth;26/08/2011
+67;Stockholms län;Dacia;19/01/2012
+94;Stockholms län;Chrysler;14/09/2017
+74;Västra Götalands län;FAW;26/07/2010
+86;Stockholms län;Lincoln;23/09/2018
+81;Västra Götalands län;Daimler;25/09/2016
+89;Jönköpings län;Ford;12/08/2017
+65;Västra Götalands län;Isuzu;22/01/2014
+52;Dalarnas län;Daihatsu;17/01/2015
+55;Stockholms län;Dongfeng Motor;15/02/2017
+73;Stockholms län;Audi;20/03/2011
+100;Stockholms län;Chrysler;21/12/2010
+98;Jönköpings län;Audi;03/02/2016
+84;Västra Götalands län;Lexus;29/09/2012
+44;Östergötlands län;Buick;18/09/2015
+90;Östergötlands län;Nissan;08/03/2016
+85;Dalarnas län;Porsche;07/03/2014
+70;Stockholms län;Maruti Suzuki;24/08/2014
+72;Gävleborgs län;Suzuki;01/07/2014
+49;Gävleborgs län;Dacia;27/12/2012
+12;Stockholms län;Kia Motors;16/07/2015
+48;Jönköpings län;Ferrari;10/03/2014
+30;Östergötlands län;Audi;08/09/2013
+97;Jönköpings län;Daimler;07/02/2017
+44;Dalarnas län;BMW;29/09/2016
+71;Jönköpings län;Jeep;03/02/2010
+44;Västra Götalands län;RAM Trucks;10/02/2015
+58;Västra Götalands län;Suzuki;23/04/2015
+1;Stockholms län;Infiniti;23/07/2014
+39;Västra Götalands län;Peugeot;21/01/2014
+19;Västra Götalands län;Chrysler;28/04/2017
+43;Dalarnas län;Mitsubishi Motors;14/02/2015
+28;Östergötlands län;Chevrolet;18/10/2016
+98;Jönköpings län;General Motors;07/05/2018
+47;Dalarnas län;Dongfeng Motor;28/07/2018
+13;Jönköpings län;Skoda;20/08/2014
+71;Dalarnas län;Volkswagen;08/09/2010
+73;Västra Götalands län;Hyundai Motors;03/05/2011
+64;Stockholms län;Mitsubishi Motors;10/11/2016
+98;Västra Götalands län;Ferrari;21/05/2017
+44;Dalarnas län;Ferrari;16/09/2013
+18;Stockholms län;Seat;03/12/2012
+1;Östergötlands län;Kia Motors;27/04/2016
+1;Stockholms län;Dongfeng Motor;11/08/2012
+18;Västra Götalands län;Dongfeng Motor;02/11/2013
+39;Jönköpings län;Nissan;18/02/2017
+72;Dalarnas län;Subaru;07/08/2013
+29;Gävleborgs län;Honda;26/09/2015
+61;Stockholms län;Mazda;16/02/2016
+10;Jönköpings län;Tata Motors;18/09/2018
+92;Stockholms län;Kenworth;14/10/2012
+99;Stockholms län;Skoda;13/01/2013
+64;Dalarnas län;Daihatsu;25/07/2017
+64;Stockholms län;Audi;13/04/2018
+67;Västra Götalands län;Volkswagen;07/04/2012
+36;Västra Götalands län;Mercedes-Benz;07/09/2017
+19;Östergötlands län;Ford;14/03/2011
+70;Stockholms län;Kia Motors;20/09/2011
+12;Dalarnas län;Smart;26/07/2011
+77;Jönköpings län;Chrysler;27/07/2013
+4;Stockholms län;Suzuki;08/09/2017
+14;Jönköpings län;Smart;01/05/2018
+35;Stockholms län;Volvo;23/11/2010
+50;Stockholms län;Maruti Suzuki;02/12/2014
+8;Västra Götalands län;RAM Trucks;17/12/2011
+75;Gävleborgs län;Seat;01/07/2013
+89;Västra Götalands län;Maruti Suzuki;10/01/2010
+91;Östergötlands län;RAM Trucks;24/03/2014
+52;Stockholms län;Toyota;12/10/2014
+35;Västra Götalands län;Seat;09/09/2010
+55;Stockholms län;Mahindra and Mahindra;26/02/2017
+78;Dalarnas län;Renault;29/01/2015
+11;Stockholms län;Volvo;07/06/2013
+26;Gävleborgs län;Lexus;09/04/2017
+55;Västra Götalands län;RAM Trucks;20/11/2015
+91;Dalarnas län;RAM Trucks;10/06/2015
+69;Östergötlands län;Buick;27/04/2017
+19;Stockholms län;Infiniti;15/12/2016
+50;Stockholms län;Porsche;02/07/2013
+1;Dalarnas län;Tata Motors;14/02/2014
+48;Västra Götalands län;JLR;08/10/2017
+31;Stockholms län;Dacia;10/05/2014
+64;Västra Götalands län;Infiniti;13/12/2010
+3;Västra Götalands län;Citroën;29/01/2011
+41;Stockholms län;Subaru;15/06/2013
+6;Jönköpings län;Porsche;18/10/2010
+99;Östergötlands län;Mazda;01/06/2011
+81;Västra Götalands län;Kenworth;30/06/2012
+71;Västra Götalands län;Lexus;03/05/2018
+16;Stockholms län;BMW;07/07/2010
+46;Västra Götalands län;Peugeot;07/01/2018
+6;Stockholms län;Renault;10/05/2016
+34;Gävleborgs län;Kenworth;27/06/2015
+61;Stockholms län;Seat;31/05/2012
+61;Stockholms län;Smart;11/05/2012
+57;Stockholms län;Seat;15/01/2010
+35;Jönköpings län;FAW;15/11/2014
+69;Västra Götalands län;Fiat;16/11/2011
+57;Östergötlands län;Smart;08/12/2013
+50;Västra Götalands län;Daimler;05/11/2014
+41;Stockholms län;GMC;15/09/2014
+33;Västra Götalands län;Kia Motors;16/10/2013
+38;Jönköpings län;Volvo;16/01/2012
+12;Västra Götalands län;Citroën;11/09/2013
+4;Östergötlands län;Tata Motors;03/04/2012
+24;Stockholms län;Lincoln;25/07/2014
+28;Västra Götalands län;Mitsubishi Motors;25/01/2018
+30;Jönköpings län;Acura;20/05/2016
+32;Västra Götalands län;Chrysler;03/11/2013
+55;Västra Götalands län;Smart;01/08/2016
+29;Dalarnas län;Tata Motors;05/09/2010
+6;Jönköpings län;Ford;15/11/2015
+55;Östergötlands län;Isuzu;20/08/2010
+75;Jönköpings län;Chrysler;19/12/2014
+46;Dalarnas län;Kia Motors;19/03/2015
+100;Stockholms län;Smart;04/03/2010
+79;Jönköpings län;Ford;12/07/2011
+24;Östergötlands län;Mercedes-Benz;19/04/2014
+95;Västra Götalands län;Isuzu;02/05/2015
+88;Dalarnas län;Honda;05/02/2012
+50;Västra Götalands län;Kia Motors;16/03/2015
+46;Jönköpings län;Infiniti;24/05/2018
+66;Stockholms län;RAM Trucks;30/06/2018
+13;Stockholms län;Mazda;16/06/2014
+48;Västra Götalands län;BMW;22/06/2011
+67;Stockholms län;Isuzu;20/09/2011
+92;Östergötlands län;Mitsubishi Motors;21/09/2010
+97;Jönköpings län;Cadillac;04/07/2015
+2;Stockholms län;Seat;29/01/2011
+98;Stockholms län;Mahindra and Mahindra;21/02/2016
+20;Stockholms län;MINI;10/05/2010
+25;Jönköpings län;Chrysler;10/08/2012
+76;Östergötlands län;Daimler;31/07/2017
+75;Stockholms län;Dongfeng Motor;22/12/2014
+22;Stockholms län;Fiat;21/08/2014
+90;Östergötlands län;Skoda;30/11/2017
+91;Västra Götalands län;Nissan;01/12/2010
+33;Västra Götalands län;Kenworth;12/01/2015
+38;Östergötlands län;Dongfeng Motor;20/12/2012
+99;Stockholms län;Honda;12/10/2015
