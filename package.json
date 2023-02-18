@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/command-line-args": "^5.2.0",
     "@types/node": "^17.0.40",
+    "command-line-args": "^5.2.1",
     "csv": "^6.2.5",
     "csv-parser": "^3.0.0",
     "ts-node": "^10.8.1",
